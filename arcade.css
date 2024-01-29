@@ -39,10 +39,6 @@ body{
   transition: 0.1s ease-in;
 }
 
-.di-navhead-mobile {
-  height: 72px;
-}
-
 .di-navhead-mobile-collapse {
   position: absolute;
   width: 100%;
@@ -62,8 +58,7 @@ body{
 
 
 .di-navbar-toggler {
-  background-color: #000000;
-  color: #000000;
+  color: #ffffff;
   font-size: 2rem;
 }
 
